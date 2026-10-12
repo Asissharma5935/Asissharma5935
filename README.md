@@ -84,30 +84,6 @@ Create and query a relational database for books, customers, and orders; analyze
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📉 Tableau — COVID-19 Dashboard
-
-Visualize COVID-19 case and mortality trends using Tableau.
-
-**Tools:** Tableau · Data Visualization
-
-[Explore repositories](https://github.com/Asissharma5935?tab=repositories)
-
-</td>
-<td width="50%" valign="top">
-
-### 📦 Excel — Inventory & Stock Analysis
-
-Analyze inventory and remaining stock after orders, with spreadsheet reporting.
-
-**Tools:** Excel · Inventory Analysis
-
-[Explore repositories](https://github.com/Asissharma5935?tab=repositories)
-
-</td>
-</tr>
 </table>
 
 ---
