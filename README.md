@@ -1,5 +1,7 @@
 # Hi, I'm Asish Kumar Sharma 👋
 
+> Aspiring Data Analyst | Turning data into actionable business insights
+
 ### Aspiring Data Analyst | Excel • SQL • Power BI • Python
 
 I enjoy turning raw data into clear insights that support better business decisions. My projects focus on data cleaning, exploratory analysis, dashboards, and SQL-based business questions. I’m continuously building my analytical and problem-solving skills.
